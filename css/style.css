@@ -37,3 +37,16 @@ body { width: 100%;}
 .sfooter-content {
 	flex: 1 0 auto;
 }
+
+body {
+	font-family: sans-serif;
+}
+
+img {
+	border: 5px solid #e1e1e1;
+}
+
+.pull-left {
+	float: left;
+	margin-right: 20px;
+}
